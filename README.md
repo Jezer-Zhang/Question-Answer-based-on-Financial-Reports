@@ -29,7 +29,7 @@ This project focuses on answering questions using large language models (LLMs) b
 
 This script extracts and prepares company and product information, building mappings that are used later for text embedding and question answering.
 
-## calculate_dict_product.py 计算类问题生成关键词及相关公式的字典存储
+## calculate_dict_product.py
 
 Handles dictionary calculations and preprocessing necessary for parsing the financial data.
 
