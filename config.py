@@ -1,0 +1,6 @@
+BASE_PATH = "/tcdata/alltxt2"
+QUESTION_PATH = "/tcdata/C-list-question.json"
+MODEL_DIR = "/tcdata/chatglm2-6b/"
+EMBEDDING_MODEL = "../m3e_base"
+OUT_DIR = "/tmp/result.json"
+PDF_LIST = "/tcdata/C-list-pdf-name.txt"
